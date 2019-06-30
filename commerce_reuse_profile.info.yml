@@ -1,0 +1,5 @@
+name: 'Commerce Reuse Profile'
+type: module
+description: 'Reuse Commerce Profile'
+core: 8.x
+package: 'Commerce'

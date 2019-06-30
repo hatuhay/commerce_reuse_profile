@@ -1,0 +1,13 @@
+{
+    "name": "commerce_reuse_profile",
+    "type": "drupal-module",
+    "description": "Reuse Commerce Profile",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/commerce_reuse_profile",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/commerce_reuse_profile",
+        "source": "http://cgit.drupalcode.org/commerce_reuse_profile",
+    },
+}
